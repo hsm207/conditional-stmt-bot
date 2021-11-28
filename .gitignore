@@ -1,0 +1,6 @@
+.rasa
+__pycache__
+models
+*.csv
+*.txt
+.ipynb_checkpoints
