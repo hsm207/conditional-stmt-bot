@@ -1,6 +1,6 @@
 # Introduction
 
-This repo contains code to accompany the [How To Build A Chatbot That Unerstands Contional Statements](https://pub.towardsai.net/how-to-build-a-chatbot-that-understands-conditional-statements-39ea5a840d5) blog post on Medium.
+This repo contains code to accompany the [How To Build A Chatbot That Understands Contional Statements](https://pub.towardsai.net/how-to-build-a-chatbot-that-understands-conditional-statements-39ea5a840d5) blog post on Medium.
 
 # Usage
 
